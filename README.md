@@ -193,20 +193,22 @@ Berikut alur penggunaan aplikasi dari awal hingga akhir:
 
 ## 🖼️ Tampilan Aplikasi
 
-Dokumentasi tangkapan layar (*screenshot*) antarmuka aplikasi disimpan pada folder [`screenshots/`](./screenshots). Berikut daftar halaman dan fitur utama yang direkomendasikan untuk ditampilkan:
+Dokumentasi tangkapan layar (*screenshot*) antarmuka aplikasi disimpan pada folder [`screenshots/`](./screenshots):
 
-| No | Halaman / Fitur | Deskripsi Tampilan | Rekomendasi Nama File |
-| :---: | :--- | :--- | :--- |
-| 1 | **Halaman Login** | Form autentikasi admin sebelum masuk ke sistem | `screenshots/01-login.png` |
-| 2 | **Dashboard & Pembobotan AHP** | Ringkasan kriteria, input Skala Saaty, dan tabel bobot prioritas serta nilai CR | `screenshots/02-dashboard-ahp.png` |
-| 3 | **Seleksi Prioritas & Grafik** | Upload Excel, tabel data alternatif, hasil perangkingan TOPSIS, dan grafik batang | `screenshots/03-seleksi-prioritas.png` |
-| 4 | **Detail Perhitungan** | Rincian matriks dan langkah matematis AHP dan TOPSIS | `screenshots/04-detail-perhitungan.png` |
-| 5 | **Laporan & Riwayat** | Pilihan sesi riwayat tersimpan, tombol ekspor Excel, dan tabel hasil | `screenshots/05-laporan-riwayat.png` |
+### 1. Halaman Login Sistem
+![Halaman Login](screenshots/01-login.png)
 
-> Setelah file screenshot ditambahkan ke folder `screenshots/`, gambar dapat langsung disematkan di bagian ini menggunakan sintaks Markdown, misalnya:
-> ```markdown
-> ![Dashboard AHP](screenshots/02-dashboard-ahp.png)
-> ```
+### 2. Dashboard & Pembobotan Kriteria (AHP)
+![Dashboard AHP](screenshots/02-dashboard-ahp.png)
+
+### 3. Seleksi Prioritas, Data Alternatif & Grafik Perangkingan (TOPSIS)
+![Seleksi Prioritas](screenshots/03-seleksi-prioritas.png)
+
+### 4. Detail Perhitungan Matematis (AHP & TOPSIS)
+![Detail Perhitungan](screenshots/04-detail-perhitungan.png)
+
+### 5. Laporan & Riwayat Sesi
+![Laporan dan Riwayat](screenshots/05-laporan-riwayat.png)
 
 ---
 
