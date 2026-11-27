@@ -213,4 +213,3 @@ Dokumentasi tangkapan layar (*screenshot*) antarmuka aplikasi disimpan pada fold
 ## 👩‍💻 Pengembang
 
 - **Nama:** Dinaria Simatupang
-- **Keterangan:** Project ini merupakan bagian dari portofolio pengembangan kemampuan dan pengalaman dalam membangun aplikasi berbasis Python, pengolahan data, serta implementasi Sistem Pendukung Keputusan menggunakan metode AHP dan TOPSIS.
