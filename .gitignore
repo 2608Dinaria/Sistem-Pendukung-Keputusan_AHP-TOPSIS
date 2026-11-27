@@ -1,0 +1,41 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Local SQLite database (auto-generated on first run by database.py)
+*.db
+*.sqlite
+*.sqlite3
+
+# Streamlit secrets & local config
+.streamlit/secrets.toml
+
+# Environment variables & sensitive files
+.env
+.env.*
+*.pem
+*.key
+
+# Temporary Office / Excel lock files
+~$*.xlsx
+~$*.xls
+
+# Distribution / packaging / logs
+build/
+dist/
+*.egg-info/
+*.log
+
+# IDE & OS generated files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
